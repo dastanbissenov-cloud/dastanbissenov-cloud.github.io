@@ -68,7 +68,7 @@ Project 3: Lean Sigma Production Control Metrics — Data model for measuring cy
 
 Languages: Kazakh (Native), Russian (Fluent), English (Fluent), German (Basic)
 
-Location: Uralsk, Kazakhstan
+Location: Houston, TX
 
 LinkedIn: linkedin.com/in/dastan-bissenov
 
