@@ -1,0 +1,128 @@
+# ==========================================
+# Portfolio Configuration (e.g., Jekyll / Hugo / Resume YAML)
+# ==========================================
+
+profile:
+  name: "Dastan Bissenov"
+  title: "System Owner | Project Controls & Systems Completion Engineer"
+  location: "Uralsk, Kazakhstan"
+  summary: >
+    Experienced Systems Completion and Project Controls professional with over 10 years
+    of experience delivering major capital energy projects (TCO FGP-WPMP). Proven expertise
+    in Primavera P6 scheduling, 90-day strategic and 4-week lookahead planning, Workface Planning (WFP),
+    Project Production Control (PPC), Lean Sigma, and Power BI data visualization.
+
+contact:
+  email: "dastan.bissenov@gmail.com"
+  phone: "+7 701 388 7870"
+  linkedin: "https://www.linkedin.com/in/dastan-bissenov"
+  github: "https://github.com/your-username" # Update with your GitHub handle
+
+skills:
+  core_competencies:
+    - "Systems Completion (RFSU / RFO)"
+    - "Project Planning & Critical Path Analysis"
+    - "Workface Planning (CWP / IWP)"
+    - "Project Production Control (PPC) & Lean Sigma"
+    - "Contract & Change Order Management"
+    - "Productivity Improvement"
+  tools_and_analytics:
+    - "Primavera P6 Enterprise Project Portfolio Management"
+    - "Microsoft Power BI"
+    - "Data Visualization & Dashboarding"
+    - "RFI / NPW Coordination"
+
+languages:
+  - language: "Kazakh"
+    proficiency: "Native"
+  - language: "English"
+    proficiency: "Fluent / Professional"
+  - language: "Russian"
+    proficiency: "Fluent / Professional"
+
+experience:
+  - role: "3GP SC System Owner"
+    company: "Tengizchevroil (TCO)"
+    project: "FGP-WPMP, 3rd Generation Plant, Systems Completion"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2023-12"
+    end_date: "2025-02"
+    highlights:
+      - "Aligned with System Owners to deliver RFSU and RFO in logical sequence per the Primavera P6 plan."
+      - "Managed 4-week tactical lookahead and 90-day strategic plans, identifying critical path risks and mitigations."
+      - "Acted as single point of contact for the Area, leading weekly coordination across Execution, Commissioning, and Operations."
+
+  - role: "3GP SC Area Completion Engineer"
+    company: "Tengizchevroil (TCO)"
+    project: "FGP-WPMP, 3rd Generation Plant, Systems Completion"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2022-12"
+    end_date: "2023-12"
+    highlights:
+      - "Coordinated Systems Completion consistency across 3GP PBF, Power, Utilities, and Process Areas."
+      - "Tracked real-time lessons learned and built data visualizations and dashboards."
+      - "Managed RFI/NPW prioritization, punch list verification, and mini-milestone graphs for 90 DLA reports."
+
+  - role: "FGP FF Project Engineer"
+    company: "Tengizchevroil (TCO)"
+    project: "FGP-WPMP, Gathering, Project Production Control"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2019-12"
+    end_date: "2022-11"
+    highlights:
+      - "Deployed Project Production Control (PPC), Workface Planning (WFP), and Lean Sigma processes with Civil/Construction teams."
+      - "Implemented the '4 Levers of Productivity' program to reduce variability, cycle time, and batch size."
+      - "Coached site teams on establishing and maintaining visual Performance Boards."
+
+  - role: "Workface Planner"
+    company: "Kentech Group"
+    project: "TCO, FGP-WPMP, Control & Power"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2018-09"
+    end_date: "2019-12"
+    highlights:
+      - "Developed Installation Work Package (IWP) release plans from Construction Work Packages (CWPs) and identified execution constraints."
+      - "Tracked critical path IWPs, managed material shortage exception reports, and led weekly WFP progress meetings."
+      - "Broke down P6 baseline schedules into Level 5 & 6 activities for Lean Sigma PPC tracking."
+
+  - role: "Planning Engineer"
+    company: "Kentech Group"
+    project: "TCO, FGP-WPMP, Control & Power"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2017-10"
+    end_date: "2018-09"
+    highlights:
+      - "Prepared baseline schedules, 3-week lookaheads, and weekly progress reports."
+      - "Developed budget control methods, logistics charts, and phase progress analytics."
+
+  - role: "Contracts Administrator"
+    company: "Kentech Group"
+    project: "Tengiz, Kazakhstan"
+    location: "Tengiz, Kazakhstan"
+    start_date: "2015-01"
+    end_date: "2017-10"
+    highlights:
+      - "Tracked contractual compliance, payment documentation, change orders, and tender administration."
+      - "Maintained the contract database and assisted in commercial negotiations."
+
+education:
+  - degree: "Bachelor's Degree in Civil Engineering"
+    institution: "West Kazakhstan Engineering Humanitarian University"
+    years: "2010 - 2012"
+  - degree: "Bachelor's Degree in Foreign Languages (English, German)"
+    institution: "West Kazakhstan State University"
+    years: "2005 - 2009"
+
+certifications:
+  - name: "Primavera P6 Enterprise Project Portfolio Management Essentials"
+  - name: "Data Analysis in Power BI"
+
+projects:
+  - title: "90-Day Lookahead & Critical Path Dashboard"
+    description: "Interactive Power BI visualization tracking mini-milestones, RFI/NPW clearance, and Systems Completion readiness."
+    tools: ["Power BI", "Primavera P6", "Excel"]
+    repo_url: "https://github.com/your-username/project-1" # Replace with actual repo link
+  - title: "Workface Planning & IWP Constraint Tracker"
+    description: "Production control tracking tool for breaking down P6 Level 5/6 activities and monitoring material constraints."
+    tools: ["Lean Sigma", "PPC", "Data Analytics"]
+    repo_url: "https://github.com/your-username/project-2" # Replace with actual repo link
